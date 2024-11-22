@@ -23,14 +23,14 @@ Para utilizar este proyecto, necesitas tener instalados los siguientes elementos
    git clone https://github.com/TuUsuario/conversor-monedas.git
    
 2. Abre el proyecto en IntelliJ IDEA:
--Importa el proyecto como un proyecto de Gradle o Maven (según tu configuración).
+* Importa el proyecto como un proyecto de Gradle o Maven (según tu configuración).
 
 3. Configura la clave API:
--Abre el archivo de configuración donde se guarda la clave API.
--Sustituye el valor predeterminado con tu propia clave API obtenida de Exchange Rate API.
+* Abre el archivo de configuración donde se guarda la clave API.
+* Sustituye el valor predeterminado con tu propia clave API obtenida de Exchange Rate API.
 
 4. Ejecuta el proyecto:
-Compila y ejecuta el archivo principal (Main.java).
+* Compila y ejecuta el archivo principal (Main.java).
 
 ## Uso
 1. Ingresa la cantidad que deseas convertir.
